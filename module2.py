@@ -11,5 +11,5 @@ for line in f:
     if n<int(s1)<b:
         print(line)
         a+=1
-    print (a)
+print (a)
 
